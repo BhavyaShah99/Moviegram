@@ -1,0 +1,50 @@
+#AddMovieMain {
+  height: 100vh;
+}
+
+.headerText {
+    text-align: center;
+    padding-top: 10px;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+.Add-Movie {
+    width: 1000px;
+		height: auto;
+    min-height: 655px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    top: 50px;
+    bottom: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+		background-color: #008080;
+		color: white;
+}
+
+.MovieForm {
+	margin: 20px;
+}
+
+.saveReviewBtn {
+	position: relative;
+	left: 425px;
+  width: 150px;
+}
+
+.addGenreButton {
+  position: absolute;
+  width: 150px;
+  left: 20px;
+  display: inline-block;
+
+}
+
+.cancelAddMoviePage {
+	left: 825px;
+	position: absolute;
+  width: 150px;
+	display: inline-block;
+}

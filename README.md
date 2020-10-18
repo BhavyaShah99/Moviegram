@@ -1,6 +1,8 @@
-# Moviegram
+# README
 
-A 4 person team effort
+## *Introduction*
+
+Welcome to Moviegram. This is an interactive and social Movie Review Website.
 
 The app is supposed to be a social movie review website where users can search for movies and see the reviews about the movie written by other users as well as connect with other users with similar movie interests.
 
@@ -271,3 +273,8 @@ Extra Functionalities:
     * Returns a list of reviews written by the user ":username".
 * GET /api/reviews/:id
     * Returns the review object that has a review id of “:id”.
+
+
+
+
+

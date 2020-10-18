@@ -1,0 +1,13 @@
+.revs {
+  width: 1000px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.norevs {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,33 @@
+.form {
+    height: 500px;
+    width: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pageM {
+    top: 100px;
+    position:relative;
+}
+
+.loginButton {
+    width: 100%;
+}
+
+
+.welcomeText {
+    text-align: center;
+    font-size: large;
+  }
+
+  .notRegisteredButtonBox {
+    height: 50px;
+}
+
+.notRegisteredButton {
+    margin: 5px;
+    right: 0px;
+    position: absolute;
+}
+  

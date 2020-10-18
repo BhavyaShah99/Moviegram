@@ -1,0 +1,38 @@
+#commentsSection {
+  color: white;
+  border-radius: 30px;
+}
+
+#comments-modal {
+  background-color: #008080;
+  border: 2px solid black;
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+}
+
+#comments-mapped {
+  height: 88%;
+  overflow-y: scroll;
+}
+
+#comModalHeader {
+  margin: 20px;
+}
+
+#new-Com {
+	margin: 20px;
+}
+
+#write-It {
+	width: 800px;
+	padding-right: 10px;
+}
+
+#comButtonCancel {
+  margin-left: 10px;
+}
+
+#comBar {
+	background-color: #303030;
+	color: white;
+}

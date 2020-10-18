@@ -1,0 +1,51 @@
+[
+  {"username":"Dhruv804",
+    "movie_title": "Dangal",
+    "content":"This is amazing movie!!",
+    "spoilers": false,
+    "comments": [{"username":"BhavyaRoxxx",
+                  "content":"Na hoi!!"}]
+  },
+  {"username":"Harshn12",
+    "movie_title": "Mission Impossible 5",
+    "content":"Tom Cruze su actor che!!",
+    "spoilers": false,
+    "comments": [{"username":"BhavyaRoxxx",
+                  "content":"Laya Baki!"}]
+  },
+  {"username":"YosefSUSU",
+    "movie_title": "Avengers: Endgame",
+    "content":"Iron Man dies in the end",
+    "spoilers": true,
+    "comments": [{"username":"BhavyaRoxxx",
+                  "content":"Tari Maa ni Ch**"}]
+    },
+  {"username":"BhavyaRoxxx",
+    "movie_title": "Love Sex aur Dhoka",
+    "content":"Got me horny AF + Boner!!",
+    "spoilers": false,
+    "comments": [{"username":"Harshn12",
+                  "content":"Etla ma uchu thai gayu!?"}]
+  },
+  {"username":"CristianoNasit",
+    "movie_title": "MS Dhoni",
+    "content":"Dhoni Ma man with the seven!!",
+    "spoilers": false,
+    "comments": [{"username":"BhavyaRoxxx",
+                  "content":"Bau saru..."}]
+  },
+  {"username":"Dhruv804",
+    "movie_title": "Chello Divas",
+    "content":"Pet dukhi gayu hasi hasi ne!!",
+    "spoilers": false,
+    "comments": [{"username":"BhavyaRoxxx",
+                  "content":"Na hoi!!"}]
+  },
+  {"username":"BhavyaRoxxx",
+    "movie_title": "Sex and the City",
+    "content":"This made me cum!!",
+    "spoilers": false,
+    "comments": [{"username":"Dhruv804",
+                  "content":"Na chale baka!!"}]
+  }
+]

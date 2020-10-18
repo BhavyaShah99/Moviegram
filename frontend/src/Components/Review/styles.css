@@ -1,0 +1,84 @@
+#review {
+	width: 1000px;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    top: 50px;
+    bottom: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #008080;
+		color: white;
+		justify-content: center;
+}
+
+#review ul {
+	display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+#review ul li {
+	font-weight: bold;
+	font-family: "Garamond", cursive, sans-serif;
+	font-size: 20px;
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+  flex: 0 1 auto;
+}
+
+#spoilerTagR {
+	color: #ff9933;
+	text-align: center;
+}
+
+#link {
+	color: white;
+  text-decoration: none;
+}
+
+#contentR {
+	display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px;
+	padding-bottom: 5px;
+  text-align: justify;
+}
+
+#datetimeR {
+	padding-left: 15px;
+	color: #484848;
+}
+
+#commentsR {
+	border-radius: 10px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+  border: 1px solid black;
+	padding-left: 20px;
+}
+
+#votes-upR{
+	margin: 5px;
+	margin-left: 10px;
+}
+
+#votes-downR{
+	margin: 5px;
+}
+
+#addRevButton {
+  margin-left: 20px;
+	margin-bottom: 10px;
+}

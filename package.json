@@ -1,0 +1,31 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for moviegram",
+  "main": "server.js",
+  "scripts": {
+        "setup": "npm install && cd frontend && npm install && cd ..",
+        "build-run": "cd frontend && npm run build && cd .. && node server.js",
+        "start": "node server.js",
+        "heroku-postbuild": "cd frontend && npm install && npm run build",
+        "test": "echo \"Error: no test specified\" && exit 1",
+	"dev": "nodemon server.js"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.4.2",
+    "connect-multiparty": "^2.0.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.5",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

@@ -1,0 +1,60 @@
+#movieContainer{
+    display: flex;
+    flex-direction: row;
+    width: 1000px;
+}
+
+#imgContainer {
+    position: relative;
+    margin: 2px;
+    width: 500px;
+}
+
+.movieImage {
+    height:100%; width:100%;
+}
+
+#thumbs{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 500px
+}
+
+.thumbContainer{
+    height: 200px;
+    width: 200px;
+}
+
+.thumb{
+    height: 150px;
+    width: 150px;
+}
+
+#movieContent{
+    justify-content: center;
+    display: flex;
+    background-color: lightblue;
+}
+
+#bigMovieContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#movieDetails{
+    display: flex;
+    width: 500px;
+    flex-direction: column;
+}
+
+#stars{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+

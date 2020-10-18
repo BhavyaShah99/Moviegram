@@ -1,0 +1,112 @@
+#reviews {
+	width: 1000px;
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    top: 50px;
+    bottom: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: #008080;
+		color: white;
+		justify-content: center;
+}
+
+#reviews ul {
+	display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+}
+
+#reviews ul li {
+	font-weight: bold;
+	font-family: "Garamond", cursive, sans-serif;
+	font-size: 20px;
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+  flex: 0 1 auto;
+}
+
+#spoilerTagRA {
+	color: #ff9933;
+	text-align: center;
+}
+
+#commentsRA {
+	border-radius: 10px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+  border: 1px solid black;
+	padding-left: 20px;
+}
+
+#contentsRA {
+	display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  width: 100%;
+  padding: 15px;
+	padding-bottom: 5px;
+  text-align: justify;
+}
+
+#datetimes {
+	padding-left: 15px;
+	color: #484848;
+}
+
+#comment {
+	border-radius: 10px;
+	padding: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+  border: 1px solid black;
+	padding-left: 20px;
+}
+
+#newComm {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 1px;
+	padding-left: 20px;
+}
+
+#writeComm {
+	padding-left: 10px;
+}
+
+#writesIt {
+	width: 810px;
+	padding-right: 10px;
+}
+
+#commBar {
+	background-color: #303030;
+	color: white;
+}
+
+#showHideComm {
+	background-color: #008080;
+	border: 1px solid #008080;
+}
+
+#vote-up{
+	margin: 5px;
+	margin-left: 10px;
+
+}
+
+#vote-down{
+	margin: 5px;
+}

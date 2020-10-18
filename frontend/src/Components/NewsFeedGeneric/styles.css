@@ -1,0 +1,14 @@
+#pageHeaderNFG {
+    position: relative;
+    width: 1000px;
+    top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#headerTextNFG {
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 45px;
+	color: white;
+}

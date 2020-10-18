@@ -1,0 +1,12 @@
+.movies {
+  width: max-content;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nomovie {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}

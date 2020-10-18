@@ -1,0 +1,35 @@
+.AdminFeed{
+  background-color: #202020;
+  color: white;
+  height: 100%;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.spaceBox{
+  height: 50px;
+}
+#pagesHeader {
+    position: relative;
+    width: 1000px;
+    top: 35px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#headersText {
+	text-align: center;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 45px;
+	color: white;
+}
+
+#Revs {
+
+}
+
+#AddMovieButton {
+  width: 100px;
+  position: relative;
+  top:30px;
+  left: 47%;
+}
